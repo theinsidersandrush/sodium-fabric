@@ -1,3 +1,6 @@
+# Notice
+__This is an old version of the Sodium fork before the LGPLv3 to PolyformShield licence change took place. If you're looking for an up-to-date version of this repository, visit this [page](https://github.com/CaffeineMC/sodium). Thanks.__
+
 <img src="src/main/resources/assets/sodium/icon.png" width="128">
 
 # Sodium (for Fabric)
